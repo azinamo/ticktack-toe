@@ -1,0 +1,16 @@
+<div class="page-header-inner">
+    <div class="page-header-inner">
+        <div class="navbar-header">
+            <a href="{{ url('/') }}"
+               class="navbar-brand">
+                Tick Tack Toe
+            </a>
+        </div>
+        <a href="javascript:;"
+           class="menu-toggler responsive-toggler"
+           data-toggle="collapse"
+           data-target=".navbar-collapse">
+        </a>
+
+    </div>
+</div>
